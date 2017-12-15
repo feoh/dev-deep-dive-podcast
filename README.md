@@ -13,7 +13,7 @@ takes time, and my dream job working at Amazon makes some sincere demands on min
 
 # Ideas for episodes
 
-* [Django](https://www.djangoproject.com/]
+* [Django](https://www.djangoproject.com/)
 * [SQLAlchemy](https://www.sqlalchemy.org/)
 * [Boto](https://github.com/boto/boto3) I dunno if I can swing this. Will need to likely seek internal approvals.
 * [Terraform](https://www.terraform.io/)
