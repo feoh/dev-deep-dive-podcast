@@ -1,3 +1,5 @@
+![Developer's Deep Dive](https://upload.wikimedia.org/wikipedia/commons/a/ae/U.S._Navy_Diver_enters_the_water_during_a_training_evolution_at_the_Naval_Diving_and_Salvage_Training_Center_140218-N-IC111-156.jpg "Developer's Deep Dive)
+
 # Introduction
 
 For years I've been told that doing technical deep dives in a podcast format just wouldn't work. Well, I'm a big fan of not accdpting "It just won't work" at face value - so let's try it, shall we? :)
