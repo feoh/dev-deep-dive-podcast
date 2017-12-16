@@ -13,7 +13,7 @@ problem or lend themselves to re-use?
 I work a very full time job so initially at least I'll commit to doing 1 episode each month. Producing a podcast
 takes time, and my dream job working at Amazon makes some sincere demands on mine.
 
-A note to my former Podcast.__init__ listeners: Hi! I can't tell you how much I appreciated all the great
+A note to my former [Podcast.__init__](https://pythonpodcast.com/) listeners: Hi! I can't tell you how much I appreciated all the great
 feedback I got from you in my time with the podcast. I hope you'll join me on this new journey even though
 we'll be talking about projects written in other programming languages. Python is still my language of choice
 and its community will always have a special place in my heart, but we've already got two Python podcasts and
