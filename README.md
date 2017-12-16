@@ -2,7 +2,7 @@
 
 # Introduction
 
-For years I've been told that doing technical deep dives in a podcast format just wouldn't work. Well, I'm a big fan of not accdpting "It just won't work" at face value - so let's try it, shall we? :)
+For years I've been told that doing technical deep dives in a podcast format just wouldn't work. Well, I'm a big fan of not accepting "It just won't work" at face value - so let's try it, shall we? :)
 
 This repository will eventually likely hold show notes and the like, but for now it's just a place for people to
 submit episode ideas. My plan is to interview the key developers for a given open source project and really dig
@@ -12,6 +12,12 @@ problem or lend themselves to re-use?
 
 I work a very full time job so initially at least I'll commit to doing 1 episode each month. Producing a podcast
 takes time, and my dream job working at Amazon makes some sincere demands on mine.
+
+A note to my former Podcast.__init__ listeners: Hi! I can't tell you how much I appreciated all the great
+feedback I got from you in my time with the podcast. I hope you'll join me on this new journey even though
+we'll be talking about projects written in other programming languages. Python is still my language of choice
+and its community will always have a special place in my heart, but we've already got two Python podcasts and
+don't need a third :) Besides, I want to be able to sate my curiosity (and hopefully yours!) without restriction!
 
 # Ideas for episodes
 
